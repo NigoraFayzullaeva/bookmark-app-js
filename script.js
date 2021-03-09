@@ -78,8 +78,8 @@ function fetchBookmarks() {
     // Create bookmarks array in localStorage
     bookmarks = [
       {
-        name: 'Jacinto Design',
-        url: 'http://jacinto.design',
+        name: 'Nigoras',
+        url: 'https://nigoras.netlify.app/',
       },
     ];
     localStorage.setItem('bookmarks', JSON.stringify(bookmarks));
